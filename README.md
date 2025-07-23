@@ -26,7 +26,10 @@ _Screenshot will be added here_
 
 ## 📁 Files
 
-- `ecommerce_sales_dashboard.pbix` – Power BI report file
+- ## 📁 Files
+
+- [Download Power BI file from OneDrive] (https://1drv.ms/u/c/407a1dfb4c438204/ET8wn49DF5hKkP9Xc9v2tWcBxLcozXyUqbcPSbNurs9uLA?e=fKmfUb))
+   
 
 ## 👨‍💻 Author
 
