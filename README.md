@@ -22,17 +22,25 @@ The goal of the project is to identify operational weaknesses and suggest potent
 
 ## 🖼️ Preview
 
-_Screenshot will be added here_
+### 📊 Main Dashboard  
+![Main Dashboard](dashboard_main.png)
+
+### 🗺️ Map View  
+![Map View](dashboard_map.png)
 
 ## 📁 Files
 
 - ## 📁 Files
 
 - [Download Power BI file from OneDrive] (https://1drv.ms/u/c/407a1dfb4c438204/ET8wn49DF5hKkP9Xc9v2tWcBxLcozXyUqbcPSbNurs9uLA?e=fKmfUb))
-   
+
+
 
 ## 👨‍💻 Author
 
 **Yevhen Yuzhnyi**  
 [LinkedIn](https://www.linkedin.com/in/yevhen-yuzhnyi/)
+
+Add dashboard previews to README
+
 
