@@ -6,6 +6,19 @@ This Power BI report provides a retrospective analysis of sales performance and 
 
 The goal of the project is to identify operational weaknesses and suggest potential directions for revenue growth based on past trends.
 
+
+📁 The full `.pbix` project file includes **6 analytical pages** covering various aspects of e-commerce performance:
+
+- 📦 Sales Overview
+- 🗺️ Regional Performance (Map)
+- ⭐ Ratings and Reviews
+- 💳 Payment Behavior
+- 🚚 Logistics Status
+- 📈 KPI Trends
+
+🖼️ This README shows only 2 sample screenshots — the full interactive dashboard is available in the `.pbix` file above.
+
+
 ## 📊 Key Insights
 
 - Sales by category and region
