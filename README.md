@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="120"/>
+</p>
 # 🛒 E-commerce Sales Dashboard (Power BI)
 
 ## 📦 Project Overview
